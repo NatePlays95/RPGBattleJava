@@ -4,6 +4,9 @@ It features saving and loading progress, leveling up and allocating stats at wil
 
 Background images are scraped from the internet, and battler sprites are ripped from *RPG ツクール GB* [RPG Maker for the Gameboy]
 
+### Download
+To download the executable, on the right side of this repository main screen is a Releases section. Click the *"Latest Release"* one and download the .zip file.
+
 <br><br><br>-images go here-
 <br><br><br>
 
