@@ -5,10 +5,15 @@ It features saving and loading progress, leveling up and allocating stats at wil
 Background images are scraped from the internet, and battler sprites are ripped from *RPG ツクール GB* [RPG Maker for the Gameboy]
 
 ### Download
-To download the executable, on the right side of this repository main screen is a Releases section. Click the *"Latest Release"* one and download the .zip file.
+(MAY BE BROKEN)<br>
+To download the executable, on the right side of this repository main screen is a Releases section. Click the *"Latest Release"* one and download the .zip file.<br>
+To run from the repo, open the ``src`` folder in any terminal, and run ``java Main``.
 
-<br><br><br>-images go here-
-<br><br><br>
+<br><br>
+![ss1](github-img/ss1.png)
+![ss2](github-img/ss2.png)
+![ss3](github-img/ss3.png)
+<br><br>
 
 ### Technical
 All the code was made in Java, using Javax Swing for user interfaces, and JSmooth for building the executable.
